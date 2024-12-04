@@ -10,17 +10,6 @@ Check out the system in action below, as simulated using MATLAB/Simulink:
 
 ![Simulation GIF](Documents%20&%20Reports/Photos/Output%20simulation.gif)
 
----
-
-## 📚 Table of Contents
-- [Project Description](#project-description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [System Parameters](#system-parameters)
-- [Simulation Results](#simulation-results)
-- [References](#references)
-
----
 
 ## 📝 Project Description
 
@@ -66,8 +55,6 @@ The **Wheeled Inverted Pendulum** is a benchmark problem in control theory, with
 
 ---
 
-
-
 ### 🏗️ Real-life Robot Photo
 Here is a real-life implementation of a wheeled inverted pendulum robot for reference:
 
@@ -82,15 +69,23 @@ Here is a real-life implementation of a wheeled inverted pendulum robot for refe
 - Simulink
 - Basic knowledge of state-space modeling and control theory.
 
+---
+
 ## 📚 References
 
 - Control concepts adapted from "Modern Control Engineering" by Ogata.
 - GitHub repository for the LQR implementation: [LQR GitHub Repository](https://github.com/turnwald/CAE_Exercise).
 
-
-
+---
 ### ⚙️ Installation
- Clone the repository:
-   ```bash
-   git clone https://github.com/DavePreet/IE-415-Control-of-Autonomous-Project.git
+Clone the repository:
+```bash
+git clone https://github.com/DavePreet/IE-415-Control-of-Autonomous-Project.git
+```
 
+---
+
+## 📂 Project Documentation
+
+You can access the full project documentation here: [Project Documentation](Documents%20&%20Reports/IE-415%20Project%20Report_202201072.pdf)
+```
